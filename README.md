@@ -1,5 +1,5 @@
 # Black Jack App
 
-iOS game.
+### iOS game.
 
 ![image](README.jpg)
