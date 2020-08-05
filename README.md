@@ -1,5 +1,5 @@
 # Black Jack App
 
-### iOS game.
+### This application is compatible with iOS13.
 
 ![image](README.jpg)
